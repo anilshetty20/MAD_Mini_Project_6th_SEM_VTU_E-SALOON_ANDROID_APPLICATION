@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "618386202526",
+    "firebase_url": "https://saloon-fdccd-default-rtdb.firebaseio.com",
+    "project_id": "saloon-fdccd",
+    "storage_bucket": "saloon-fdccd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:618386202526:android:5767b1e51e5d5239ac408f",
+        "android_client_info": {
+          "package_name": "com.example.hairsalonbookingapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "618386202526-04uagi4fbumdfk6g3t79bs9a9tn27nk8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJqg1zjH9cKbkn5FiQCU-5AovXgw3q9lQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "618386202526-04uagi4fbumdfk6g3t79bs9a9tn27nk8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

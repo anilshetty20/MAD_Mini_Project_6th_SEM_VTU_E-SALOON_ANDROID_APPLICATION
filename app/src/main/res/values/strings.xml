@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Hair Salon Booking App</string>
+    <string name="channel_name">Booking Channel</string>
+    <string name="channel_description">Your channel description here</string>
+
+    //onboard screen
+
+    <string name="ob_header1">BOOK AN APPOINTMENT</string>
+    <string name="ob_header2">MEET OUR BARBERS</string>
+    <string name="ob_header3">CONFIRMATION</string>
+
+    <string name="ob_get_started">GET STARTED</string>
+
+    <string name="ob_desc1">User needs to book his slot inorder to have his Haircut .</string>
+    <string name="ob_desc2">Our service promises every user to fulfill their Dream look  .</string>
+    <string name="ob_desc3">Once an appointment is confirmed, Do Visit our Salon on Allotted Date.</string>
+
+
+    //appointment
+    <string-array name="Barber">
+        <item>Select a Barber</item>
+        <item>Anil Shetty</item>
+        <item>Darshan BR</item>
+    </string-array>
+
+    <string name="date">Date of Booking :</string>
+    <string name="time">Time of Booking :</string>
+    <string name="barber">Barber Booked :</string>
+</resources>
